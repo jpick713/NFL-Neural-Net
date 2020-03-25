@@ -1,6 +1,6 @@
 # NFL-Neural-Net
 
-This neural net was used to ytain on data from NFL NextGen stats
+This neural net was used to train on data from NFL NextGen stats
 
 Data was cleaned up, scaled, and encoded
 Then custom loss function was made according with a cdf
